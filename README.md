@@ -1,2 +1,2 @@
 # hello-world
-Hello, I am Yanfei Zhang, a PhD candidate in the univerity of Amsterdam. My master is synthetic systems biology. 
+Hello, I am Yanfei Zhang, a PhD candidate in the univerity of Amsterdam. My major is synthetic systems biology. 
